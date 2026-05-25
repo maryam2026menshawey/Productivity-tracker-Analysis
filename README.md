@@ -12,9 +12,24 @@ The goal of the project is to transform raw productivity data into meaningful in
 * User performance patterns
 * Behavioral segments
 
----
 
-## Dashboard Pages
+## Dashboard Preview
+
+### Executive Summary
+
+<img width="905" height="495" alt="productivity analysis" src="https://github.com/user-attachments/assets/33c300c0-faca-4768-a763-29d034a60f0d" />
+)
+
+### Habit Impact Analysis
+
+<img width="906" height="502" alt="sc2" src="https://github.com/user-attachments/assets/ddc269f0-e0c4-4f4c-ab53-f8989cef6330" />
+
+
+
+### User Segmentation
+(images/<img width="909" height="504" alt="sc3" src="https://github.com/user-attachments/assets/b6b4f5d9-065c-4985-976b-43b0358e0f5c" />
+
+
 
 ### 1. Executive Summary
 
